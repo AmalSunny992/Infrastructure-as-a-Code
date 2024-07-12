@@ -1,3 +1,4 @@
+![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square)
 # Infrastructure-as-Code Learning Repository
 Welcome to the Infrastructure-as-Code Learning Repository! This repository is designed to guide you through the fundamentals of Infrastructure as Code (IaC), enabling you to automate and manage your infrastructure efficiently using code.
 
